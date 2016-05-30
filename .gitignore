@@ -1,0 +1,9 @@
+*.pyc
+*.sqlite3
+.DS_Store
+
+# Ignore virtualenv dirs
+ve
+
+# Ignore .deb package generation
+*_*.dsc

@@ -1,0 +1,2 @@
+# please keep the imports alphabetically sorted
+django==1.8.12
